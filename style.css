@@ -1,5 +1,17 @@
 #container {
-    float: left;
-    border: 0mm;
+  float: left;
+  border: 0mm;
 }
 
+.card-mb-3 {
+  background-color: aquamarine;
+  height: auto;
+  width: 90%;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  word-wrap: break-word;
+  padding: 10px;
+  border: 4px solid #81062b;
+  border-radius: 5px;
+}

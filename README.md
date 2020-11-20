@@ -17,7 +17,7 @@ Deployment:
 Portfoilo deployment will be on webpage through Github. Users will be able to view items throughout my coding camp experience. 
 
 Conclusion:
-Portfolio is a great way to showcase progression of my work from earlier to now. 
+Portfolio is a great way to showcase progression of my work from earlier to now.  This application is a mobile resume for anyone who is visual and looking into what someones work looks like.  Storing and showcasing your best work is important in a skill set that can not be demonstrated in words. 
 
 Link to deployed app
 https://meganlavallee.github.io/Responsiveness/ 

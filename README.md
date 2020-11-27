@@ -10,9 +10,6 @@ First boxes were made and html's were created for the different pages that were 
 Division of Labor:
 I, Megan, soley did all work for this.  
 
-Conclusion:
-This portfolio is a great way to showcase the best work and everything that has been done. 
-
 Deployment:
 Portfoilo deployment will be on webpage through Github. Users will be able to view items throughout my coding camp experience. 
 

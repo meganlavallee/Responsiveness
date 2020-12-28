@@ -35,11 +35,11 @@ Portfolio is a great way to showcase progression of my work from earlier to now.
 Megan Lavallee
         
 ## Demos
-undefined
+Contact Page: ![image](https://user-images.githubusercontent.com/73404164/103242889-19beaf00-4915-11eb-8c9e-98f9c1827d86.png)
         
 
 ## Questions
-GitHub profile: [undefined](https://github.com/undefined)
+GitHub profile: [Megan Lavallee](https://github.com/meganlavallee)
 
 Email: megan.lavallee@yahoo.com
 

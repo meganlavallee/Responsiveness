@@ -36,6 +36,11 @@ Megan Lavallee
         
 ## Demos
 Contact Page: ![image](https://user-images.githubusercontent.com/73404164/103242889-19beaf00-4915-11eb-8c9e-98f9c1827d86.png)
+Projects: ![image](https://user-images.githubusercontent.com/73404164/103308983-112bae80-49d1-11eb-97e0-70b33c085b35.png)
+About Me: ![image](https://user-images.githubusercontent.com/73404164/103309027-2d2f5000-49d1-11eb-8da5-dc4e0b2aa482.png)
+
+
+![video](https://youtu.be/HJHBZlKANxY)
         
 
 ## Questions
